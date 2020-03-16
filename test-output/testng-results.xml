@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10526" started-at="2020-03-02T10:55:00Z" finished-at="2020-03-02T10:55:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10526" started-at="2020-03-02T10:55:00Z" finished-at="2020-03-02T10:55:10Z">
+      <class name="facebooktest.Testcase">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:facebooktest.Testcase@39aeed2f]" name="initialize" is-config="true" duration-ms="14258" started-at="2020-03-02T16:24:46Z" finished-at="2020-03-02T16:25:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="testCase()[pri:0, instance:facebooktest.Testcase@39aeed2f]" name="testCase" duration-ms="10506" started-at="2020-03-02T16:25:00Z" finished-at="2020-03-02T16:25:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+      </class> <!-- facebooktest.Testcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
